@@ -1,0 +1,30 @@
+/* *{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    height: 100vh;
+    margin: 0;
+}
+
+.bg {
+    background: url('https://i.pinimg.com/564x/18/9a/36/189a3653f9ca37a82f8b4cb6597600bd.jpg') no-repeat center ;
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    width: calc(100vw + 60px);
+    height: calc(100vh + 60px);
+    z-index: -1;
+    filter: blur(0px);
+
+}
+.loading-text {
+    font-size: 50px;
+    color: rgb(211, 6, 6);
+} */
+/* https://i.pinimg.com/736x/7f/b3/a7/7fb3a71b4f646bbd31f47cff7fcb8c5d.jpg */
